@@ -5,3 +5,7 @@
 -static : link static library
 -V : show command at each compile step.
 
+example)
+gcc -o filename file.c
+gcc file.c -o filename 
+
