@@ -1,0 +1,7 @@
+-c : make Object File 
+-o : define binary File name, if not define name, name is setted as a.out
+-O : Optimization of compile Code
+-g : include deburgging information in binary File
+-static : link static library
+-V : show command at each compile step.
+
