@@ -1,0 +1,9 @@
+programs to make excute File
+
+cpp : precompiler => .i , not saved
+cc1 : compiler => .s  , not saved (assembler file, MOVE a b)
+as : assemblier => .o  (machinary File, 10010101010)
+ld : linker => .out
+
+
+
